@@ -6,3 +6,12 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+#chat-app{
+ font-family: Arial, Helvetica, sans-serif;
+ width: 500px;
+ margin: 0 auto;
+ background: azure;
+ min-height: 300px;
+ padding: 20px 10px;
+}
